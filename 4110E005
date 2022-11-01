@@ -1,1 +1,40 @@
-簡述底下應用層協定(英文全名與簡單功能說明):
+##簡述底下應用層協定(英文全名與簡單功能說明):
+- HTTP vs HTTPs
+  - HyperText Transfer Protocol 超文本傳輸協定
+  - HTTP是一種用於分佈式、協作式和超媒體訊息系統的應用層協定
+  - HTTP是全球資訊網的數據通信的基礎
+  - HyperText Transfer Protocol Secure 超文本傳輸安全協定
+  - HTTPS是一種透過計算機網路進行安全通訊的傳輸協定
+  - HTTPS是提供對網站伺服器的身分認證，保護交換資料的隱私與完整性
+- DNS vs DNSsec
+  -
+  -
+  -
+  -
+  -
+  -
+- telnet vs ssh
+  -
+  -
+  -
+  -
+  -
+  -
+- ftp vs sftp
+  -
+  -
+  -
+  -
+  -
+  -
+- smtp, pop3
+  -
+  -
+  -
+  -
+  -
+  -
+- SNMP 
+  -
+  -
+  -
