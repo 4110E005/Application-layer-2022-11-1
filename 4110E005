@@ -28,13 +28,13 @@
   - sftp是一數據流連線，提供檔案存取、傳輸和管理功能的網路傳輸協定。
   - sftp是由網際網路工程任務組（IETF）設計，透過SSH 2.0 的擴充提供安全檔案傳輸能力，但也能夠被其他協定使用。
 - smtp, pop3
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- SNMP 
-  - 
-  - 
-  - 
+  - Simple Mail Transfer Protocol 簡單郵遞傳送協定
+  - smtp可用在傳送和接收電子郵件的資訊，但SMTP通常用作傳送電子郵件資訊，而不是接收
+  - smtp主要使用TCP埠25。要為一個給定的域名決定一個SMTP伺服器，需要使用DNS的MX記錄。
+  - Post Office Protocol - Version 3 郵局協議
+  - pop此協定主要用於支援使用客戶端遠端管理在伺服器上的電子郵件。
+  - POP支援離線郵件處理。其具體過程是：郵件傳送到伺服器上，電子郵件客戶端呼叫郵件客戶機程式以連接伺服器，並下載所有未閱讀的電子郵件
+- SNMP
+  - Simple Network Management Protocol 簡單網路管理協定
+  - 該協定能夠支援網路管理系統，用以監測連接到網路上的裝置是否有任何引起管理上關注的情況。
+  - 它由一組網路管理的標準組成，包含一個應用層協定（application layer protocol）、資料庫模式（database schema），和一組資料物件。
